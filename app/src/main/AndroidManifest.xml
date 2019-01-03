@@ -17,6 +17,8 @@
         </activity>
         <activity android:name=".Controller.ProductsActivity">
         </activity>
+        <activity android:name=".Controller.ProductSelectedActivity">
+        </activity>
     </application>
 
 </manifest>

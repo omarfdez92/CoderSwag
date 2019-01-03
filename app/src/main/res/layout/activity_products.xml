@@ -26,6 +26,6 @@
             android:layout_marginBottom="8dp"
             app:layout_constraintBottom_toBottomOf="parent" android:id="@+id/productListView"
             app:layout_constraintEnd_toEndOf="parent" android:layout_marginTop="16dp"
-            android:divider="@null" android:onClick="onCategoryClicked"/>
+            android:divider="@null" />
 
 </android.support.constraint.ConstraintLayout>
